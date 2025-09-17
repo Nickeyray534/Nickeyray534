@@ -33,14 +33,12 @@ Email Me 👉 ✉️ **nickeyray534@gmail.com** For Collaboration/Project or Any
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nickeyray534&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Nickeyray534&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickeyray534&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shashank5306&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shashank5306&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank5306&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nickeyray534&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=Shashank5306&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
