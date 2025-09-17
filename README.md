@@ -1,4 +1,13 @@
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nickey+Ray;AI+Developer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
+
+ <img src="https://github.com/user-attachments/assets/fa5e2004-408a-4df2-b595-b1d6b2e29a9c" width="1000" height="300"/>
+</div>
+
+
 ## Hi there 👋
+
 # 💫 Hi 👋, I am Nickey Ray
 **A passionate Web Developer || Software Engineer || Data Scientist**
 
@@ -42,6 +51,8 @@ Email Me 👉 ✉️ **nickeyray534@gmail.com** For Collaboration/Project or Any
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nickeyray534&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
