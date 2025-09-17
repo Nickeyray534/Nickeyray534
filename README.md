@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 Hi 👋, Nickey Ray
+# 💫 Hi 👋, I am Nickey Ray
 **A passionate Web Developer || Software Engineer || Data Scientist**
 
 Email Me 👉 ✉️ **nickeyray534@gmail.com** For Collaboration/Project or Anything Else. 😊
